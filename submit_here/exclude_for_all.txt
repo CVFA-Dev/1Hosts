@@ -1,4 +1,10 @@
 
+# https://github.com/badmojr/1Hosts/issues/1934
+emqx.com
+emqxcloud.com
+emqxsl.com
+emqx.cloud
+
 # https://github.com/badmojr/1Hosts/issues/1930
 ln-msedge.net
 
